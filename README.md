@@ -12,7 +12,7 @@ The world consist jungle and grasslands where grass spawns (there is more probab
 
 At the start of the simulation the animals are spawned. They can move in eight directions, which they choose randomly.
 
-If the animal come in a field with a grass, it eats it and gain energy. Every day animal loses energy and if energy is negative, it dies.
+If the animal come in a field with a grass, it eats it and gain energy. Every day animal loses energy and if energy is negative, animal dies.
 
 Every animal has his own genotype. 
 
