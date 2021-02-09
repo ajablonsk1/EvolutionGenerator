@@ -1,0 +1,12 @@
+{
+  "width": "20",
+  "height": "20",
+  "jungle-width": "8",
+  "jungle-height": "8",
+  "energyLostPerDay": "1",
+  "energyReceivedFromGrass": "5",
+  "quantityOfGrassPerDay": "15",
+  "quantityOfAnimalsAtStart": "15",
+  "startingEnergy": "20",
+  "refresh": "200"
+}
