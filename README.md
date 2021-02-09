@@ -2,7 +2,7 @@
 
 ## Introduction
 
-EvolutionGenerator is project for my IT studies, especially for the java course. It simulates the animals life and their enviroment. 
+EvolutionGenerator is my first project for the java course at my IT studies. It simulates the animals life and their enviroment. 
 
 ## How it works
 
