@@ -26,6 +26,10 @@ Java 14 + JavaFX
 
 Run the 'Main" class in 'Main' package.
 
+## Author 
+
+Adrian Jabłoński
+
 
 
 
