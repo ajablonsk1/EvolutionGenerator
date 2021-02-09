@@ -1,8 +1,12 @@
 # EvolutionGenerator
 
-EvolutionGenerator is project for my IT studies. 
+## Introduction
 
-It simulates the animals and enviroment. 
+EvolutionGenerator is project for my IT studies. It simulates the animals life and their enviroment. 
+
+## How it works
+
+Before the simulation starts you can select the world variables like: width, height, starting energy for an animal, animals at start etc.
 
 The world consist jungle and grasslands where grass spawns (there is more probability that grass spawns in jungle). 
 
@@ -13,5 +17,16 @@ If the animal come in a field with a grass, it eats it and gain energy. Every da
 Every animal has his own genotype. 
 
 Animals can copulate if they stand on the same field. Their child inherit 1/3 genotype from one parent and 2/3 from another.
+
+## Technologies 
+
+Java 14 + JavaFX
+
+## Launch
+
+Run the 'Main" class in 'Main' package.
+
+
+
 
 
